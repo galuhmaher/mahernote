@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redirects on 📄 Note</title>
+    <link>http://localhost:1313/redirect/</link>
+    <description>Recent content in Redirects on 📄 Note</description>
+    <generator>Hugo</generator>
+    <language>id-ID</language>
+    <copyright>Copyright © 2024, Galuh Maher.</copyright>
+    <lastBuildDate>Wed, 27 May 2020 16:26:14 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/redirect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/youtube/</link>
+      <pubDate>Wed, 27 May 2020 16:26:14 +1000</pubDate>
+      <guid>http://localhost:1313/youtube/</guid>
+      <description>CONTENT NOT RENDERED&#xA;Only insert details here if you want to enter any additional detail about the purpose of the redirect, otherwise you can just leave it blank.</description>
+    </item>
+  </channel>
+</rss>
