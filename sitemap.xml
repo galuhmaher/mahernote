@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://note.galuhmaher.com/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://note.galuhmaher.com/blog/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hello/</loc>
+    <loc>https://note.galuhmaher.com/blog/hello/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hello-world/</loc>
+    <loc>https://note.galuhmaher.com/hello-world/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/youtube/</loc>
-    <lastmod>2020-05-27T16:26:14+10:00</lastmod>
+    <loc>https://note.galuhmaher.com/youtube/</loc>
+    <lastmod>2023-05-27T16:26:14+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/redirect/</loc>
-    <lastmod>2020-05-27T16:26:14+10:00</lastmod>
+    <loc>https://note.galuhmaher.com/redirect/</loc>
+    <lastmod>2023-05-27T16:26:14+10:00</lastmod>
   </url>
 </urlset>

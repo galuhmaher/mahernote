@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>📄 Note</title>
-    <link>http://localhost:1313/</link>
+    <link>https://note.galuhmaher.com/</link>
     <description>Recent content on 📄 Note</description>
     <generator>Hugo</generator>
     <language>id-ID</language>
     <copyright>Copyright © 2024, Galuh Maher.</copyright>
     <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://note.galuhmaher.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/hello-world/</link>
+      <link>https://note.galuhmaher.com/hello-world/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hello-world/</guid>
+      <guid>https://note.galuhmaher.com/hello-world/</guid>
       <description>Sudah beberapa bulan ini saya ngulik-ngulik bearblog, mudah dan nyaman banget nulis disini. Bisa login di hp, menu-menunya simple, nulis pakai markdown dll.&#xA;Cukup install note yang support markdown (saya pake obsidian, ada di playstore), nulis, buka bearblog di browser, copy paste deh. Kalau kamu awam tapi pengen nge-blog juga, bisa banget pake bearblog.&#xA;Tapi masalahnya, dari semua keunggulan itu saya nggak bisa melakukan yang saya pengen. Yaitu pakai subdomain sendiri, note.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/youtube/</link>
-      <pubDate>Wed, 27 May 2020 16:26:14 +1000</pubDate>
-      <guid>http://localhost:1313/youtube/</guid>
-      <description>CONTENT NOT RENDERED&#xA;Only insert details here if you want to enter any additional detail about the purpose of the redirect, otherwise you can just leave it blank.</description>
+      <link>https://note.galuhmaher.com/youtube/</link>
+      <pubDate>Sat, 27 May 2023 16:26:14 +1000</pubDate>
+      <guid>https://note.galuhmaher.com/youtube/</guid>
+      <description>CONTENT NOT RENDERED</description>
     </item>
   </channel>
 </rss>
